@@ -1,0 +1,69 @@
+*{
+	font-family: sans-serif;
+}
+
+.container {
+	background-color: #cbd4d6;
+	padding: 0.01em;
+	border-radius:0.7em;
+	margin-top: 0.5em;
+
+}
+
+.container h2 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.container pre {
+	margin-left: 10px;
+}
+
+.input-text {
+	width: 100%;
+	height: 2em;
+}
+
+textarea {
+	width: 99.8%;
+	height: 10em;
+	resize: none;
+}
+
+.proceed {
+	float: right;
+	background-color: #cbd4d6;
+	border: 1px black solid;
+	padding: 0.5em;
+
+	transition: 1s;
+}
+
+.proceed:hover {
+	cursor: pointer;
+	background-color: white;
+	border-top-right-radius: 0.7em;
+	border-bottom-right-radius: 0.7em;
+}
+
+.surveyLink {
+	text-decoration: none;
+}
+
+.questions {
+	margin-bottom: 1em;
+	margin-right: 5em;
+	margin-left: 5em;
+}
+
+.choices {
+	margin-left: 1em;
+}
+
+.badge {
+	font-size: 0.5em;
+	background-color: blue;
+	color: white;
+	padding:0.1em 0.4em;
+	border-radius: 0.5em;
+}
