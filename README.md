@@ -1,6 +1,6 @@
 # Simple Survey System
 
-<p>This simple survey system is a simple php project that i cam up with and I wanted to get feedback from people who would ever see this repository.</p>
+<p>This simple survey system is a simple php project that i came up with and I wanted to get feedback from people who would ever see this repository.</p>
 
 <h3>Features</h3>
 <p>The features of this survey system is as follows:</p>
